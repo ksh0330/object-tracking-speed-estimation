@@ -348,7 +348,7 @@ class VideoMonitor(QWidget):
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    video_source = r"D:\REAL\DCU_30.mp4" # 웹캠은 주소 대신 그냥 0으로 바꿔주면 됨
+    video_source = r"data\DCU_30.mp4" # 웹캠은 주소 대신 그냥 0으로 바꿔주면 됨
     window = VideoMonitor(video_source)
     window.show()
     sys.exit(app.exec_())
