@@ -67,4 +67,4 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
 
-- GitHub: [ksh99-git](https://github.com/ksh0330)
+- GitHub: [ksh0330](https://github.com/ksh0330)
